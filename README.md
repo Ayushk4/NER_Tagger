@@ -6,3 +6,4 @@ NER (Named Entity Recognition) Tagging using Flux.jl
 
 ## References
 [End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF](https://arxiv.org/pdf/1603.01354.pdf) - (Xuezhe Ma and Eduard Hovy)
+[http://aclweb.org/anthology/W03-0419](http://aclweb.org/anthology/W03-0419)
