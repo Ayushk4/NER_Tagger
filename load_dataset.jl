@@ -1,7 +1,7 @@
 PARAMETERS = Dict{String, Any}()
-PARAMETERS["TRAIN_PATH"] = "train.txt"
-PARAMETERS["DEV_PATH"] = "dev.txt"
-PARAMETERS["TEST_PATH"] = "test.txt"
+PARAMETERS["TRAIN_PATH"] = "CONLL2003/train.txt"
+PARAMETERS["DEV_PATH"] = "CONLL2003/dev.txt"
+PARAMETERS["TEST_PATH"] = "CONLL2003/test.txt"
 PARAMETERS["TO_LOWERCASE"] = true
 PARAMETERS["ZERO_ALL_NUMS"] = true
 PARAMETERS["TAGGING_SCHEME"] = "BIOES" # In the paper, this tagging scheme was found to give the highest accuracy
